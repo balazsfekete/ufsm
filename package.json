@@ -1,0 +1,23 @@
+{
+  "name": "ufsm",
+  "version": "1.0.0",
+  "description": "A tiny, flexible state machine to work with external contexts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balazsfekete/ufsm.git"
+  },
+  "keywords": [
+    "fsm",
+    "state machine"
+  ],
+  "author": "Balázs Fekete",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/balazsfekete/ufsm/issues"
+  },
+  "homepage": "https://github.com/balazsfekete/ufsm#readme"
+}
