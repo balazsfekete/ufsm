@@ -9,7 +9,7 @@ Sometimes modelling the overall state of an application with a state machine is 
 ## Installation
 
 ```bash
-npm i @balazsfkt/ufsm
+npm i ufsm
 ```
 
 ## How it works
