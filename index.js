@@ -20,7 +20,7 @@ export function createMachine(definition, transitionCallback) {
         currentState = targetState
         targetState = handle('onEnter', event)
       }
-      transitionCallback(currentState)
+      if (typeof transitionCallback === 'function') transitionCallback(currentState)
     }
   }
 
